@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - I’m currently working on: CousinWare Reborn
 - I’m currently learning: Java and LUA
 - I’m looking to collaborate on: any 1.12.2 client
