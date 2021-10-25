@@ -1,8 +1,8 @@
-- I’m currently working on: CousinWare Reborn
+- I’m currently working on: AstolfoWare, Alpha X, DroidW4RE [CLIENT, SCRIPT, SERVERSIDE], Raven B++, and Notorius+
 - I’m currently learning: Java and LUA
-- I’m looking to collaborate on: any 1.12.2 client
+- I’m looking to collaborate on: any 1.12.2 client, LUA Project, I'm willing to try anything
 - I’m looking for help with: Java and LUA
 - Ask me about: what the dog doing?
 - How to reach me: Discord: Droid.#3929
 - Pronouns: He/Him
-- Fun fact: School is a fucking bitch
+- Fun fact: Droid has a Large backstory ask him on his DM!
