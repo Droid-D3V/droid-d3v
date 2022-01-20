@@ -2,7 +2,7 @@
 <img width="200px" height = "200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2YTlq-YjJEZx39xee9FkZdx-JxJEVukxWw:https://images-platform.99static.com//nd-iyDj8W4sbwAjo8TL8roClTOY%3D/0x0:1000x1000/fit-in/500x500/99designs-contests-attachments/81/81624/attachment_81624432&usqp=CAU" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! </h1>
+<h1> Hello Fellow < Skidders./ >! </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Droid-D3V.Droid-D3V)
