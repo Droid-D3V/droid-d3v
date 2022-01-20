@@ -2,13 +2,13 @@
 <img width="200px" height = "200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq2YTlq-YjJEZx39xee9FkZdx-JxJEVukxWw:https://images-platform.99static.com//nd-iyDj8W4sbwAjo8TL8roClTOY%3D/0x0:1000x1000/fit-in/500x500/99designs-contests-attachments/81/81624/attachment_81624432&usqp=CAU" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Droid-D3V.Droid-D3V)
 
 </p>
-<div size='20px'> Hi! My name is Droid. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Droid. Thank You for taking the time to view my GitHub Profile
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -48,4 +48,3 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
