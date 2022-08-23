@@ -16,13 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on DroidW4RE Serverside, and DroidW4RE HUB
+- 🔭 I’m currently working on Droidium, Moonshine (:trollgod:), and a secret for later
 
-- 🌱 I’m currently learning LuaU/rLua, Lua 5.1, Java, and Kotlin 
+- 🌱 I’m currently learning Luau/rLua, Lua 5.1, Java, and Kotlin.
 
-- 👯 I’m looking to collaborate on ROBLOX Scripts and Serversides 
+- 👯 I’m looking to collaborate on ROBLOX Scripts and Serversides.
 
-- 💬 Talk to me about Anarchy Minecraft, and ROBLOX 
+- 💬 Talk to me about Hypixel Cheating and ROBLOX Cheating.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Droid-D3V?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
